@@ -16,11 +16,11 @@ The main part that I use offcourse is the LED, which is the edison led with the 
 
 Then to make it easy to be connected to breadboard, the end of the cooper wire is soldered into a header pin. In the end will looked like this:
 
-<img src="/assets/image/LEDPhoto.jpg" width="350">
+<img src="/assets/image/LEDPhoto.png" width="350">
 
 The LEDs intensity can also be controlled, the cathode of the LED are connected into the 2n2222 into ground, and the base pin is controlled with PWM from microcontroller
 
-<img src="/assets/image/LEDPhotoControll.jpg" width="350">
+<img src="/assets/image/LEDPhotoControll.png" width="350">
 
 ### LEDs Controll
 
@@ -57,4 +57,8 @@ Lastly for the microcontroller I use the ESP32-C3 Mini, I use this microcontroll
 
 ### Top PCB
 
+<img src="/assets/image/TOPPCB.png" width="550">
+
 ### Bottom PCB
+
+<img src="/assets/image/BOTTOMPCB.png" width="550">
