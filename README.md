@@ -12,11 +12,15 @@ While scrolling thourgh locak online marketplace I stumbeled upon a edison filam
 
 The main part that I use offcourse is the LED, which is the edison led with the size of 18.5mm. 8 of this LEDs are then assembled and soldered with a cooper wire like the image bellow
 
-![LED Schematic](/assets/image/LEDSchematic.jpg)
+<img src="/assets/image/LEDSchematic.jpg" width="250">
 
 Then to make it easy to be connected to breadboard, the end of the cooper wire is soldered into a header pin. In the end will looked like this:
 
-[input image]
+<img src="/assets/image/LEDPhoto.jpg" width="350">
+
+The LEDs intensity can also be controlled, the cathode of the LED are connected into the 2n2222 into ground, and the base pin is controlled with PWM from microcontroller
+
+<img src="/assets/image/LEDPhotoControll.jpg" width="350">
 
 ### LEDs Controll
 
@@ -31,7 +35,9 @@ The Schematic of the LEDs Controll Will look like this:
 
 As stated above, there is no LED to show the current second, so to visualize it I use a mini 5x25mm incandescent lamps, from the seller it state that it can be powered with 2.5-6V. To light this, the anode is connected to 3.3V and the cathode to 2n2222 Transistor to ground, the this transistor is controlled with the microcontroller, so the microcontroller only need to supply voltage to controll and to power the LEDs.
 
-![Second LED](/assets/image/SecondLight.png)
+![Second LED](/assets/image/SecondLight.png) 
+
+<img src="/assets/image/SecondLightSchematic.png" width="350">
 
 ### RTC
 
