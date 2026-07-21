@@ -43,13 +43,19 @@ As stated above, there is no LED to show the current second, so to visualize it 
 
 As for the RTC I use the DS3231
 
+<img src="/assets/image/RTC.jpg" width="350">
+
 ### Temp and Humid Sensor
 
 For the sensor I use the HTU21D, it can be connected to Microcontroller using the I2C
 
+<img src="/assets/image/HTU21D.jpg" width="350">
+
 ### Microcontroller
 
 Lastly for the microcontroller I use the ESP32-C3 Mini, I use this microcontroller because it compact size
+
+<img src="/assets/image/ESP32C3.jpg" width="350">
 
 ---
 
@@ -61,4 +67,8 @@ Lastly for the microcontroller I use the ESP32-C3 Mini, I use this microcontroll
 
 ### Bottom PCB
 
-<img src="/assets/image/BOTTOMPCB.png" width="550">
+<img src="/assets/image/BottomPCB.png" width="550">
+
+But turns out, I make some mistakes on the button, so I fix it with some cables, and so the revised schematic should looks like this
+
+<img src="/assets/image/BottomPCB_Rev.png" width="350">
