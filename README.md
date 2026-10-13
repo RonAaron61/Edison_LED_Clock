@@ -72,3 +72,8 @@ Lastly for the microcontroller I use the ESP32-C3 Mini, I use this microcontroll
 But turns out, I make some mistakes on the button, so I fix it with some cables, and so the revised schematic should looks like this
 
 <img src="/assets/image/BottomPCB_Rev.png" width="350">
+
+
+### Result
+
+Video: https://youtu.be/DrIr_Akatko?si=Y6-Fsod_8FQzEh6e
