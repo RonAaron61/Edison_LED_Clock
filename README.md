@@ -59,6 +59,14 @@ Lastly for the microcontroller I use the ESP32-C3 Mini, I use this microcontroll
 
 ---
 
+### First Assembly
+
+Firstly I try to assembly all in a project board to check if every thing is connected, working, and for code validation
+
+<img src="/assets/image/breadboard_1.jpg" width="550">
+
+After it show a sucesfull result, then I make the schematic and PCB for production.
+
 ## Full Schematic
 
 ### Top PCB
@@ -73,6 +81,16 @@ But turns out, I make some mistakes on the button, so I fix it with some cables,
 
 <img src="/assets/image/BottomPCB_Rev.png" width="350">
 
+
+### PCB Results
+
+image
+
+### Assembly
+
+The assembly using the top and bottom layer will result like this
+
+<img src="/assets/image/onpcb_1.png" width="558">
 
 ### Result
 
