@@ -79,7 +79,7 @@ After it show a sucesfull result, then I make the schematic and PCB for producti
 
 But turns out, I make some mistakes on the button, so I fix it with some cables, and so the revised schematic should looks like this
 
-<img src="/assets/image/BottomPCB_Rev.png" width="350">
+<img src="/assets/image/NixieClockResult.jpg" width="350">
 
 
 ### PCB Results
@@ -91,6 +91,10 @@ image
 The assembly using the top and bottom layer will result like this
 
 <img src="/assets/image/onpcb_1.png" width="558">
+
+what it need lastly is the case/enclosure, so I try to make it using a copper color PLA Fillament to mimic the vintage look
+
+
 
 ### Result
 
