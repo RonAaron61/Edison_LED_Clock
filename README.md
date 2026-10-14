@@ -84,7 +84,7 @@ But turns out, I make some mistakes on the button, so I fix it with some cables,
 
 ### PCB Results
 
-image
+<img src="/assets/image/PCBResult.png" width="450">
 
 ### Assembly
 
@@ -94,7 +94,7 @@ The assembly using the top and bottom layer will result like this
 
 what it need lastly is the case/enclosure, so I try to make it using a copper color PLA Fillament to mimic the vintage look
 
-<img src="/assets/image/NixieClockResult.jpg" width="800">
+<img src="/assets/image/NixieClockResult.png" width="800">
 
 ### Result
 
